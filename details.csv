@@ -1,0 +1,204 @@
+Roll,Name,Description
+1,Flickering Wards,Runes etched into the walls flash weakly as ancient containment spells struggle to remain active. Occasional sparks of raw magic jump between the sigils.,,,,,,,,,,,,,,,,,,,,,,,
+2,Arcane Static,The air hums with unstable magical energy. Tiny motes of blue light drift through the chamber like embers.,,,,,,,,,,,,,,,,,,,,,,,
+3,Temporal Echo,"Ghostly images replay moments from the tower’s past: mages shouting warnings, circles activating, something terrible breaking free.",,,,,,,,,,,,,,,,,,,,,,,
+4,Distorted Acoustics,Sounds travel strangely here. A whisper might echo like thunder while loud noises fade instantly.,,,,,,,,,,,,,,,,,,,,,,,
+5,Lingering Ritual,An unfinished summoning circle glows faintly. The magic that once powered it still clings to the room.,,,,,,,,,,,,,,,,,,,,,,,
+6,Warped Distance,Paths stretch and compress unpredictably. A doorway that looks a few steps away may take much longer to reach.,,,,,,,,,,,,,,,,,,,,,,,
+7,Floating Debris,"Books, stones, or fragments of furniture drift slowly through the air as gravity weakens.",,,,,,,,,,,,,,,,,,,,,,,
+8,Shifting Orientation,Gravity subtly shifts direction. Loose objects slide toward unexpected surfaces.,,,,,,,,,,,,,,,,,,,,,,,
+9,Mirror Reflection,Reflective surfaces show slightly different versions of the room—sometimes with extra figures that are not actually present.,,,,,,,,,,,,,,,,,,,,,,,
+10,Ghostly Architects,"Spectral figures of ancient mages walk silently through the chamber, repeating the rituals they performed centuries ago.",,,,,,,,,,,,,,,,,,,,,,,
+11,Elemental Fire,"### **Environmental Feel**
+
+Oppressive heat, volcanic landscapes, and ancient basalt terrain.
+
+### **Visual Description**
+
+Cracks split the stone floor revealing rivers of molten lava beneath. Jagged black basalt pillars rise from the ground like volcanic cliffs. Red ash drifts through the air and distant thunder echoes like eruptions in the distance.
+
+### **Sensory Presence**
+
+* air shimmers with heat  
+* metallic smell of sulfur and hot stone  
+* faint rumbling like distant magma flows
+
+### **Mechanical Effects**
+
+* intense heat causes **fatigue or minor damage over time**  
+* lava channels or magma vents create **hazard zones**  
+  metal equipment becomes **uncomfortably hot**  
+* occasional **fire geysers erupt from fissures**",,,,,,,,,,,,,,,,,,,,,,,
+12,Elemental Water,"### **Environmental Feel**
+
+Pressure, currents, and immense oceanic depth.
+
+### **Visual Description**
+
+Parts of the chamber fill with seawater that flows through the room without spilling out of broken walls. Coral-like growths spread across surfaces and strange aquatic plants sway in invisible currents.
+
+### **Sensory Presence**
+
+* muffled sound  
+* distant whale-like echoes  
+* smell of salt and algae  
+  pressure against the ears
+
+### **Mechanical Effects**
+
+* sections of the room become fully underwater  
+* movement is slowed or requires swimming checks  
+  strong currents push characters  
+* lightning or spells behave unpredictably in water",,,,,,,,,,,,,,,,,,,,,,,
+13,Elemental Air,"### **Environmental Feel**
+
+Immense altitude, open skies, and violent wind currents.
+
+### **Visual Description**
+
+The walls of the chamber open into endless sky filled with drifting cloud formations. Broken stone fragments float like airborne islands as powerful winds whip through the space.
+
+### **Sensory Presence**
+
+* roaring wind  
+* thin, cold air  
+* constant motion  
+* feeling of extreme height
+
+### **Mechanical Effects**
+
+* **strong wind pushes characters**  
+* ranged attacks may be affected  
+  loose objects and debris **float or drift**  
+* jumping distances increase due to partial gravity loss",,,,,,,,,,,,,,,,,,,,,,,
+14,Elemental Earth,"### **Environmental Feel**
+
+Immense geological pressure and ancient stone.
+
+### **Visual Description**
+
+Jagged crystal formations burst from the floor and walls. Massive slabs of rock slowly shift as if the entire chamber were embedded deep within a mountain.
+
+### **Sensory Presence**
+
+* deep rumbling vibrations  
+* grinding stone  
+* smell of dust and minerals
+
+### **Mechanical Effects**
+
+* **difficult terrain** from uneven stone growth  
+* crystal formations provide **cover**  
+  occasional **minor cave-ins**  
+* tremors may knock creatures off balance",,,,,,,,,,,,,,,,,,,,,,,
+15,Elemental Ice,"### **Environmental Feel**
+
+Silent frozen wasteland.
+
+### **Visual Description**
+
+Ice creeps across every surface as frost-covered pillars rise like glacial formations. Snow drifts through the chamber despite there being no ceiling.
+
+### **Sensory Presence**
+
+* biting cold  
+* muffled sound  
+  faint cracking of ice
+
+### **Mechanical Effects**
+
+* **slippery surfaces**  
+* breath becomes visible  
+* cold exposure may cause **gradual damage or exhaustion**  
+* frozen surfaces can shatter under heavy impact  ",,,,,,,,,,,,,,,,,,,,,,,
+16,Feywild,"### **Environmental Feel**
+
+Dreamlike, vibrant, and slightly unsettling.
+
+### **Visual Description**
+
+Silver trees grow through cracks in the stone while glowing flowers bloom along the walls. Moonlight fills the chamber regardless of the tower’s structure.
+
+### **Sensory Presence**
+
+* distant music  
+* laughter echoing from nowhere  
+* scents of flowers and wild forests
+
+### **Mechanical Effects**
+
+* Time perception becomes unreliable  
+* illusions may appear real  
+* emotions are amplified",,,,,,,,,,,,,,,,,,,,,,,
+17,Astral Plane,"### **Environmental Feel**
+
+Weightless cosmic emptiness.
+
+### **Visual Description**
+
+The chamber opens into a vast star field where broken fragments of the tower drift in silent orbit.
+
+### **Sensory Presence**
+
+* total silence  
+* strange psychic pressure  
+* distant flashes of color in the void
+
+### **Mechanical Effects**
+
+* **low gravity / flight-like movement**  
+* movement may occur by **thought rather than force**  
+* psychic phenomena may occur",,,,,,,,,,,,,,,,,,,,,,,
+18,Celestial Plane,"### **Environmental Feel**
+
+Radiant purity and overwhelming presence.
+
+### **Visual Description**
+
+The chamber fills with golden light as towering pillars of radiant energy replace sections of the tower’s walls.
+
+### **Sensory Presence**
+
+* distant choral voices  
+* warmth and calm  
+  scent of incense or ozone
+
+### **Mechanical Effects**
+
+* evil creatures may suffer disadvantage  
+* healing magic may be amplified  
+* blinding radiance may affect vision",,,,,,,,,,,,,,,,,,,,,,,
+19,The Abyss,"### **Environmental Feel**
+
+Chaotic corruption.
+
+### **Visual Description**
+
+Black tendrils creep across the stone while cracks reveal infinite darkness beneath the floor.
+
+### **Sensory Presence**
+
+* whispers of madness  
+* distant screaming  
+* smell of rot and sulfur
+
+### **Mechanical Effects**
+
+* fear effects may trigger  
+* the environment may lash out unpredictably  
+* corruption may spread across surfaces",,,,,,,,,,,,,,,,,,,,,,,
+20,Planar Convergence,"### **Environmental Feel**
+
+Reality collapsing.
+
+### **Visual Description**
+
+Multiple environments overlap simultaneously—lava flows through floating ice while stars burn in the sky above a forest canopy.
+
+### **Mechanical Effects**
+
+* roll **two additional planar effects**
+
+* terrain shifts each round
+
+* magical surges become common",,,,,,,,,,,,,,,,,,,,,,,

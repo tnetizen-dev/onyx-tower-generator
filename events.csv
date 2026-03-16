@@ -1,0 +1,21 @@
+Roll,Name,Description
+1,Something turns up; it’s unfriendly.,Roll on the Encounters Table.
+2,Something turns up; it’s merely curious.,Roll on the Encounters Table.
+3,Something is disturbed while eating or reading.,Roll on the Encounters Table.
+4,A fight or argument spills into the location.,Roll twice on the Encounters Table; they’re already fighting each other before the players get involved.
+5,"Something’s territory is disturbed and it defends its lair, office, etc.","Roll on the Encounters Table. If the encounter is with multiple creatures, double the amount."
+6,"Something turns up, badly injured, totally lost or otherwise at a disadvantage.",Roll on the Encounters Table.
+7,"Something is returning to its home, office, etc., and is surprised to find the PCs here.",Roll on the Encounters Table.
+8,An unexpected gust of wind extinguishes any exposed flames such as candles or torches.,All exposed flames are extinguished.
+9,The PCs become disoriented and lose track of their position.,Reduce their Progress by 1.
+10,An ominous ticking can be heard from beneath the floorboards. Nothing happens yet.,"Next time you would roll on the Random Events Table in this Location, roll twice instead."
+11,"Footprints, litter, notes, & other signs of passage.",Roll on the Encounters Table to see what left them. The next Encounter in this Location will be with that.
+12,Something’s empty home or office is found.,"Roll on the Treasure and Extraordinary Book Tables for what’s there, and on the Encounters Table to see what lives there. The thing’s not home currently. Next time you would roll an Encounter in this Location, the creature whose home you found comes back instead."
+13,Hidden treasure is found under the floorboards!,Roll on the Treasure Table.
+14,A cache of treasure in a chest of drawers!,Roll on the Treasure Table.
+15,An extraordinary book on one of the shelves!,Roll on the Extraordinary Books Table.
+16,A detailed set of notes left by prior researchers!,Add D4 to the party’s Progress.
+17,"A bookshelf swings out from the wall to reveal a secret passage, leading somewhere else.","Draw a line on the map leading to a previously explored Location, ideally one less deep than the current Location."
+18,An ominous locked door!,"If it can be opened (with lockpicking, force, etc.) it leads to a Location D6+1 Layers deeper."
+19,A spiral staircase behind one of the shelves!,It leads back to where the PCs first entered the Library.
+20,"Behind the party, the books rearrange themselves, blocking their route back!",Erase one of the exits at this Location.
